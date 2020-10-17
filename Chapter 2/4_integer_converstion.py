@@ -1,0 +1,7 @@
+num1=str(4)
+num2=float("2")
+num3=int("3")
+print(num1)
+print(num2)
+print(num3)
+print(num2+num3)

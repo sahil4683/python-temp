@@ -1,0 +1,6 @@
+name=input("Enter Name")
+print(name)
+length=len(name)
+print(length)
+sr=input("Enter Charactor")
+print(name.count(sr))
